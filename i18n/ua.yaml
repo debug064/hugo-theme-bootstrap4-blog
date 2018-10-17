@@ -1,0 +1,23 @@
+- id: about
+  translation: "Про автора"
+
+- id: home
+  translation: "Головна"
+
+- id: recentPosts
+  translation: "Останні повідомлення"
+
+- id: readMore
+  translation: "Докладніше →"
+
+- id: translations
+  translation: "Переклади"
+
+- id: share
+  translation: "Поділитися"
+
+- id: paginatorPrevious
+  translation: "Попередня сторінка"
+
+- id: paginatorNext
+  translation: "Наступна сторінка"
